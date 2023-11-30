@@ -1,0 +1,148 @@
+::ng-deep .mat-button{
+    background: linear-gradient(90deg, #4776e6, #8e54e9);
+    color: #fff;
+    border-radius: 40px !important;
+}
+
+::ng-deep .mat-button{
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    min-width: 64px;
+    border: none;
+    outline: none;
+    line-height: inherit;
+    user-select: none;
+    // -webkit-appearance: none;
+    overflow: visible;
+    vertical-align: middle;
+    background-color: yellow;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: var(--mdc-typography-button-font-family, var(--mdc-typography-font-family, Roboto, sans-serif));
+    font-size: var(--mdc-typography-button-font-size, 14px);
+    line-height: var(--mdc-typography-button-line-height, 36px);
+    font-weight: var(--mdc-typography-button-font-weight, 500);
+    letter-spacing: var(--mdc-typography-button-letter-spacing, .0892857143em);
+    -webkit-text-decoration: var(--mdc-typography-button-text-decoration, none);
+    text-decoration: var(--mdc-typography-button-text-decoration, none);
+    text-transform: var(--mdc-typography-button-text-transform, none);
+}
+
+::ng-deep .mat-button-color-prim{
+    background: linear-gradient(90deg, #4776e6, #00bfc2);
+    color: #fff;
+    border-radius: 40px !important;
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    min-width: 64px;
+    border: none;
+    outline: none;
+    line-height: inherit;
+    user-select: none;
+    // -webkit-appearance: none;
+    overflow: visible;
+    vertical-align: middle;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: var(--mdc-typography-button-font-family, var(--mdc-typography-font-family, Roboto, sans-serif));
+    font-size: var(--mdc-typography-button-font-size, 14px);
+    line-height: var(--mdc-typography-button-line-height, 36px);
+    font-weight: var(--mdc-typography-button-font-weight, 500);
+    letter-spacing: var(--mdc-typography-button-letter-spacing, .0892857143em);
+    -webkit-text-decoration: var(--mdc-typography-button-text-decoration, none);
+    text-decoration: var(--mdc-typography-button-text-decoration, none);
+    text-transform: var(--mdc-typography-button-text-transform, none);
+}
+
+::ng-deep .mat-button-color{
+    background: linear-gradient(90deg, #4776e6, #c20000);
+    color: #fff;
+    border-radius: 40px !important;
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    min-width: 64px;
+    border: none;
+    outline: none;
+    line-height: inherit;
+    user-select: none;
+    // -webkit-appearance: none;
+    overflow: visible;
+    vertical-align: middle;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: var(--mdc-typography-button-font-family, var(--mdc-typography-font-family, Roboto, sans-serif));
+    font-size: var(--mdc-typography-button-font-size, 14px);
+    line-height: var(--mdc-typography-button-line-height, 36px);
+    font-weight: var(--mdc-typography-button-font-weight, 500);
+    letter-spacing: var(--mdc-typography-button-letter-spacing, .0892857143em);
+    -webkit-text-decoration: var(--mdc-typography-button-text-decoration, none);
+    text-decoration: var(--mdc-typography-button-text-decoration, none);
+    text-transform: var(--mdc-typography-button-text-transform, none);
+}
+
+::ng-deep .mat-button-disabled{
+    background: linear-gradient(90deg, #4776e6, #00bfc2);
+    color: #fff;
+    border-radius: 40px !important;
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    min-width: 64px;
+    border: none;
+    outline: none;
+    line-height: inherit;
+    user-select: none;
+    // -webkit-appearance: none;
+    overflow: visible;
+    vertical-align: middle;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: var(--mdc-typography-button-font-family, var(--mdc-typography-font-family, Roboto, sans-serif));
+    font-size: var(--mdc-typography-button-font-size, 14px);
+    line-height: var(--mdc-typography-button-line-height, 36px);
+    font-weight: var(--mdc-typography-button-font-weight, 500);
+    letter-spacing: var(--mdc-typography-button-letter-spacing, .0892857143em);
+    -webkit-text-decoration: var(--mdc-typography-button-text-decoration, none);
+    text-decoration: var(--mdc-typography-button-text-decoration, none);
+    text-transform: var(--mdc-typography-button-text-transform, none);
+}
+
+::ng-deep .routerLink{
+    background: linear-gradient(90deg, #4776e6, #8e54e9);
+    color: #fff;
+    border-radius: 40px !important;
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    min-width: 64px;
+    border: none;
+    outline: none;
+    line-height: inherit;
+    user-select: none;
+    // -webkit-appearance: none;
+    overflow: visible;
+    vertical-align: middle;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: var(--mdc-typography-button-font-family, var(--mdc-typography-font-family, Roboto, sans-serif));
+    font-size: var(--mdc-typography-button-font-size, 14px);
+    line-height: var(--mdc-typography-button-line-height, 36px);
+    font-weight: var(--mdc-typography-button-font-weight, 500);
+    letter-spacing: var(--mdc-typography-button-letter-spacing, .0892857143em);
+    -webkit-text-decoration: var(--mdc-typography-button-text-decoration, none);
+    text-decoration: var(--mdc-typography-button-text-decoration, none);
+    text-transform: var(--mdc-typography-button-text-transform, none);
+}
